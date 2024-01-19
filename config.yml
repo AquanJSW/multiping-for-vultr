@@ -1,0 +1,4 @@
+file: info.json
+ping_interval: 1
+view_interval: 1
+timeout: 2

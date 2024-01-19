@@ -1,0 +1,6 @@
+scrapy
+numpy
+pandas
+pyyaml
+icmplib
+PySide6
